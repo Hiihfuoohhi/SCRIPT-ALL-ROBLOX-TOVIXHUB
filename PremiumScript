@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))() 
+loadstring(game:HttpGet("https://api.realaya.xyz/v1/files/l/a4to77kjsgbj55cp6w1jpvjid6v2q7mk.lua"))()
